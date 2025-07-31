@@ -151,9 +151,19 @@ Simulated streaming by chunked incremental data loading*
 * Pie Chart for calculating the average of ROI vs Channel used
 * Line Chart for Average of ROI by campaign type
 * Metric table for Customer Segment, Sum of ROI and Average of engagement score.
+* Slicer: Filter by Target Audience, Filter by Clicks and Company.
+  
 
 **Budget Allocation:**
 ![Budget Allocation](./Screenshot%202025-07-31%20083630.png)
 
+* KPI: Sum of Impressions, Average of CPC, Average of Conversion rate.
+* Silcers: Target Audience, Channel used and Company.
+* Line chart for Average of total_revenue_gained by Quarter and Campaign type
+* Area chart for Average of ROI by language
+* Average of profit vs location.
+
+**Strategic Planning**
+![Strategic Planning]()
 
 
