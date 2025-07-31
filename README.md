@@ -145,5 +145,5 @@ Simulated streaming by chunked incremental data loading*
 # 4. Building the visuals and dashboard using PowerBI
 
 **ROI Tracking:**
-![ROI Tracking](Screenshot 2025-07-31 083709.png)
+![ROI Tracking]([Screenshot 2025-07-31 083709.png](https://github.com/Neeharika-999/Marketing-Campaign-and-ROI-Tracking/blob/main/Screenshot%202025-07-31%20083709.png))
 
