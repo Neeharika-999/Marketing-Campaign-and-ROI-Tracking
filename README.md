@@ -221,6 +221,12 @@ Foodies: ROI = 203.21 | Engagement = 5.54
 
 Health & Wellness: ROI = 183.18 | Engagement = 4.79
 
+The overall campaign has been financially successful, generating a strong profit of ₹12.5 million from a total revenue of ₹14.94 million after spending ₹2.49 million on acquisition. When we look at how different marketing channels performed, Email, Google Ads, and Instagram delivered the highest returns on investment (ROI), while YouTube and Website channels showed lower returns. Interestingly, all channels were used almost equally, so the differences in ROI come from how effective each channel was rather than how much it was used.
+
+In terms of campaign types, Display and Social Media campaigns stood out as the top performers, delivering higher ROI compared to other types. On the other hand, Influencer and Email campaigns showed lower ROI, meaning they were less efficient at turning investment into profit.
+
+When it comes to customer segments, "Outdoor Adventurers" and "Foodies" responded the best to the campaigns, with the highest ROI and engagement scores. This means these groups were more interested and active, giving better returns for the money spent on them. In contrast, the "Health & Wellness" segment showed lower engagement and ROI, suggesting they were less responsive to the current campaign approach.
+
 **Why is it happening?**
 
 Influencer Marketing has the lowest ROI despite often being costly. This suggests:
@@ -298,4 +304,59 @@ Influencer Marketing has the lowest ROI despite often being costly. This suggest
 * Metric table consist of Campaign type, Average of Acquisition Cost, Average of profit, Average of Conversion rate, ROI Rank, Top Campaign Flag, Average of CPC.
 * Line chart for Sum of ROI by Campaign type and year
 * Average of CPC by Target Audience.
+
+# Insights, Reasoning and Recommendation:
+
+**What Did We Find?**
+* *Influencer Campaigns are Leading in ROI*
+Even though all campaign types (like Email, Social Media, Display, and Search) have similar acquisition costs and conversion rates, Influencer campaigns are ranked highest in ROI. This suggests that influencer marketing is giving us the best value for the money spent right now.
+
+* *Other Campaigns are Performing Similarly — but Less Efficiently*
+Campaigns like Search, Email, Display, and Social Media are generating similar profits, but their ROI is slightly lower, so they’re not using our budget as effectively.
+
+* *Cost Per Click (CPC) Varies by Audience*
+
+Women aged 25–34 have the lowest CPC (about $31.88), meaning we’re spending less to reach and engage them.
+
+Men aged 18–24 have the highest CPC (around $32.10), making them more expensive to target.
+
+* *ROI Has Changed Over Time*
+
+ROI from Influencer and Search campaigns increased, showing they’ve improved over time.
+
+On the other hand, Email and Social Media ROI has declined, indicating these might not be working as well now.
+
+**Why Is This Happening?**
+* *Influencer Campaigns Are More Effective Right Now*
+These campaigns may be better aligned with the audience. Influencers likely built trust with their followers, leading to stronger engagement and higher conversion.
+
+* *Other Campaigns Are Getting Saturated or Outdated*
+Channels like Email and Social Media may be experiencing ad fatigue, meaning customers are seeing the same type of content too often and are no longer engaging with it. Or, the targeting and messaging might not be as strong as before.
+
+* *Some Target Audiences Are Cheaper to Reach*
+Women aged 25–34 cost less per click, which means they’re either more interested, more engaged, or simply responding better to the ads.
+Men 18–24 are more expensive, which could mean our messaging isn’t resonating with them as well.
+
+**What Should We Do?**
+1. Invest More in Influencer Campaigns
+Since these are performing best right now, we should:
+Partner with more relevant influencers who match our brand and audience.
+Make sure we track real results—not just likes or views, but actual conversions and profits.
+
+2. Adjust Targeting Based on CPC
+Focus more of the budget on audiences like Women 25–34, who are cheaper and more responsive.
+Reevaluate or improve the messaging for Men 18–24—or consider reducing spend on them if ROI doesn’t improve.
+
+3. Refresh Email and Social Media Campaigns
+These channels are still useful, but they need a refresh:
+Use personalized and creative content to recapture attention.
+Try different formats (e.g., short videos, polls, quizzes).
+Segment audiences better so they get more relevant messages.
+
+4. Keep Tracking ROI Regularly
+What works now may change in a few months. So, we should:
+Monitor ROI by campaign type and audience every month or quarter.
+Use that data to update where we spend—and how we design campaigns.
+
+
 
