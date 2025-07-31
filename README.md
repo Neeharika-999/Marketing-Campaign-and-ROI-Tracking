@@ -18,8 +18,21 @@ This is the dataset of marketing campaign of few companies in the digital platfo
 
 # SITUATION
 
-🔹 2. Budget Allocation – Situation-Based Question
+**1. ROI Tracking -Situation-based Question:**
+
+Situation:
+Over the last few months, our team has launched several marketing campaigns across different platforms—Email, Google Ads, Instagram, YouTube, and even through influencer partnerships. We've also targeted a wide range of customer segments, from Foodies and Fashionistas to Outdoor Adventurers and Tech Enthusiasts.
+
+While the overall numbers look promising—revenue is coming in and ROI looks decent—there are still some lingering questions. Some campaigns seem to be working much better than others, and there's a growing concern that we might be spending too much on channels that aren't delivering enough value.
+
+The marketing team wants to know:
+
+"Which marketing channels, campaign types, and customer segments are generating the highest return on investment (ROI), and how can we optimize our marketing spend by reallocating resources toward the most profitable and engaging areas?"
+
+**2. Budget Allocation – Situation-Based Question:**
+
 📌 The Situation (Context)
+
 Over the past year, the marketing team at a mid-to-large enterprise launched multiple digital campaigns across various channels — including Social Media, Search, Influencer collaborations, Display Ads, and Email — targeting audiences in multiple languages and geographies.
 
 After heavy investments across Q1–Q4, leadership raised concerns about whether their spend was yielding optimal returns, especially with rising CPC rates and only moderate growth in customer acquisition.
@@ -30,10 +43,26 @@ At the same time, some internal stakeholders observed anecdotal success in speci
 
 The marketing analytics team wanted to know:
 
-Which campaign types are actually driving the most revenue and conversions?
+* Which campaign types are actually driving the most revenue and conversions?
 
-Are there specific languages or regions where our marketing resonates more?
+* Are there specific languages or regions where our marketing resonates more?
 
-Is our cost-per-click (CPC) justifiable, and how does it vary by campaign?
+* Is our cost-per-click (CPC) justifiable, and how does it vary by campaign?
 
-Should we continue investing evenly across channels, or refocus?
+* Should we continue investing evenly across channels, or refocus?
+
+# 3. Strategic planning- Situation-Based Question:
+
+**Situation**
+
+Over the last few months, we’ve launched a range of marketing campaigns—across influencers, search ads, social media, email, and display—targeting various customer groups. While we’ve seen some good results overall, it's clear that some strategies are working better than others, and some audiences are responding more than others.
+
+As we start planning for the next quarter, the team wants to be more focused and intentional. Instead of spreading our budget evenly, we need to identify what’s actually driving impact—and where we may be overspending without getting much in return. The goal is to make smarter choices about which campaigns to invest in and which audiences to prioritize, based on what’s truly working.
+
+The marketing teams wants to know:
+
+*  Are there specific marketing strategies that are outperforming others—and should we be reallocating budget based on what’s working best?
+
+*  Are we targeting the right audience segments, or are we overspending on groups that aren't delivering value?
+  
+*  Are some of our marketing channels becoming less effective over time—and how should we respond? 
