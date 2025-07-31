@@ -74,17 +74,4 @@ Before starting, we must know few terms that are used in marketing campaign anal
 
 * **ROI:** ROI stands for Return on Investment. ROI is a key performance metric used to evaluate how effective a marketing campaign (or any investment) is at generating profit relative to its cost.
 
-Formula:
-ROI
-=
-Revenue
-−
-Acquisition Cost
-Acquisition Cost
-×
-100
-ROI= 
-Acquisition Cost
-Revenue−Acquisition Cost
-​
- ×100
+**Formula:** ROI= (Revenue−Acquisition Cost)/Acquisition Cost × 100
