@@ -153,5 +153,7 @@ Simulated streaming by chunked incremental data loading*
 * Metric table for Customer Segment, Sum of ROI and Average of engagement score.
 
 **Budget Allocation:**
-![Budget Allocation](
+![Budget Allocation](./Screenshot%202025-07-31%20083630.png)
+
+
 
