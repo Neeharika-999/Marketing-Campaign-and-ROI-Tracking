@@ -20,7 +20,8 @@ This is the dataset of marketing campaign of few companies in the digital platfo
 
 **1. ROI Tracking -Situation-based Question:**
 
-Situation:
+**Situation**
+
 Over the last few months, our team has launched several marketing campaigns across different platforms—Email, Google Ads, Instagram, YouTube, and even through influencer partnerships. We've also targeted a wide range of customer segments, from Foodies and Fashionistas to Outdoor Adventurers and Tech Enthusiasts.
 
 While the overall numbers look promising—revenue is coming in and ROI looks decent—there are still some lingering questions. Some campaigns seem to be working much better than others, and there's a growing concern that we might be spending too much on channels that aren't delivering enough value.
@@ -31,7 +32,7 @@ The marketing team wants to know:
 
 **2. Budget Allocation – Situation-Based Question:**
 
-📌 The Situation (Context)
+**Situation**
 
 Over the past year, the marketing team at a mid-to-large enterprise launched multiple digital campaigns across various channels — including Social Media, Search, Influencer collaborations, Display Ads, and Email — targeting audiences in multiple languages and geographies.
 
