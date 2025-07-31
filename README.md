@@ -67,3 +67,24 @@ The marketing teams wants to know:
 *  Are we targeting the right audience segments, or are we overspending on groups that aren't delivering value?
   
 *  Are some of our marketing channels becoming less effective over time—and how should we respond? 
+
+# TERMS AND DISCUSSION
+
+Before starting, we must know few terms that are used in marketing campaign analysis:
+
+* **ROI:** ROI stands for Return on Investment. ROI is a key performance metric used to evaluate how effective a marketing campaign (or any investment) is at generating profit relative to its cost.
+
+Formula:
+ROI
+=
+Revenue
+−
+Acquisition Cost
+Acquisition Cost
+×
+100
+ROI= 
+Acquisition Cost
+Revenue−Acquisition Cost
+​
+ ×100
