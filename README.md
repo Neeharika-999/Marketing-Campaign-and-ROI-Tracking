@@ -74,4 +74,25 @@ Before starting, we must know few terms that are used in marketing campaign anal
 
 * **ROI:** ROI stands for Return on Investment. ROI is a key performance metric used to evaluate how effective a marketing campaign (or any investment) is at generating profit relative to its cost.
 
-**Formula:** ROI= (Revenue−Acquisition Cost)/Acquisition Cost × 100
+**Formula:** ROI = (Revenue−Acquisition Cost)/Acquisition Cost × 100
+
+* **Acquitision Cost:** Acquisition Cost refers to the total cost of acquiring a customer or lead through a marketing campaign.
+
+In simple terms, it's how much money you had to spend to get one person to take a desired action — like signing up, downloading, or making a purchase.
+
+**Formula:** Customer Acquisition Cost (CAC) = Total Campaign Cost/Number of Customers Acquired 
+
+* **CPC:** CPC stands for Cost Per Click. It is a digital marketing metric that shows how much you pay every time someone clicks on your ad.
+
+In Simple Terms, if you run an ad on Google, Facebook, Instagram, etc., and someone clicks on it, you are charged a certain amount—that amount is your CPC.
+​
+**Formula:** CPC = Total Number of Clicks/Total Cost of Campaign
+
+* **Conversion Rate:** Conversion Rate tells you how many people took a desired action (like signing up, purchasing, or downloading) after clicking on your ad or visiting your site.
+
+**Formula:** Conversion Rate = (Number of Conversions/Total Visitors or Clicks) × 100
+
+* **​Engagement Score:** Engagement Score is a metric that shows how actively your audience is interacting with your content, ads, or campaigns. It combines several types of user behaviors — like clicks, likes, shares, comments, time spent — into a single score to measure overall interest and involvement.
+
+**Formula:** Engagement Score = (Total Engagements/Total Impressions or Reach) × 100
+
