@@ -144,7 +144,7 @@ Simulated streaming by chunked incremental data loading*
 
 # 4. Building the visuals and dashboard using PowerBI
 
-**ROI Tracking:**
+**1. ROI Tracking:**
 ![ROI Tracking](./Screenshot%202025-07-31%20083709.png)
 
 * KPI: Sum of Acquisition Cost, Sum of Profit and Sum of Total revenue gained.
@@ -152,6 +152,135 @@ Simulated streaming by chunked incremental data loading*
 * Line Chart for Average of ROI by campaign type
 * Metric table for Customer Segment, Sum of ROI and Average of engagement score.
 * Slicer: Filter by Target Audience, Filter by Clicks and Company.
+
+
+# Insights, Reasoning and Recommendations:
+
+According to the 1st Situation that is ROI tracking where it was mentioned that:
+
+The marketing team wants to know:
+
+"Which marketing channels, campaign types, and customer segments are generating the highest return on investment (ROI), and how can we optimize our marketing spend by reallocating resources toward the most profitable and engaging areas?"
+
+Based on that, I made the analysis and following results is found:
+
+**What did we find?**
+
+*Overall Financial Metrics:*
+
+* Acquisition Cost: 2.49M
+
+* Total Revenue Gained: 14.94M
+
+* Profit: 12.5M
+➤ The campaign is overall profitable, with a high ROI.
+
+*Channel Performance (Pie Chart - Average ROI by Channel Used):*
+
+**Top channels by ROI:**
+
+* Email: 5.29
+
+* Google Ads: 5.13
+
+* Instagram: 5.07
+
+**Lower ROI channels:**
+
+* YouTube: 4.78
+
+* Website: 4.95
+
+-> All channels have similar share in usage (~16-17%).
+
+*Campaign Type Performance (Line Chart - Average ROI by Campaign Type):*
+
+**Top Campaign Types by ROI:**
+
+* Display: ~5.4
+
+* Social Media: ~5.3
+
+* Search: ~5.1
+
+**Low ROI Campaign Types:**
+
+* Influencer Marketing: ~4.3
+
+* Email: ~4.7
+
+*Customer Segments (Metric Table):*
+
+**Top Performing Segments (based on ROI and Engagement):**
+
+Outdoor Adventurers: ROI = 222.25 | Engagement = 6.00
+
+Foodies: ROI = 203.21 | Engagement = 5.54
+
+**Lower Performing Segments:**
+
+Health & Wellness: ROI = 183.18 | Engagement = 4.79
+
+**Why is it happening?**
+
+Influencer Marketing has the lowest ROI despite often being costly. This suggests:
+
+* Possibly poor targeting or misalignment with the audience.
+
+* Influencers used may not have strong conversion power.
+
+* Campaigns may focus more on awareness than action.
+
+* Email performs well as a Channel but not as a Campaign Type, indicating:
+
+* Email works best when used tactically rather than as the sole strategy.
+
+* Customer Segments with high engagement (e.g., Outdoor Adventurers, Fashionistas) are showing better ROI, likely due to:
+
+* Better targeting and personalization.
+
+* Products/services resonating well with their lifestyle and interests.
+
+**What to do ?**
+
+✅ Optimize Campaign Strategy: 
+* Reduce spend on Influencer campaigns or focus on micro-influencers with higher engagement and niche audiences.
+
+* Increase investment in Display and Social Media campaigns, as they deliver higher ROI.
+
+✅ Refine Email Marketing: 
+* Use Email more tactically, such as:
+
+* Retargeting warm leads.
+
+* Abandoned cart recovery.
+
+* Personalized product recommendations.
+
+* A/B test subject lines and CTAs to boost email campaign effectiveness.
+
+✅ Target High-Performing Segments: 
+* Focus efforts on Outdoor Adventurers, Foodies, and Fashionistas with customized campaigns, since they show:
+
+* Higher ROI.
+
+* Strong engagement.
+
+✅ Channel Mix Optimization: 
+
+* Prioritize Email, Google Ads, and Instagram as high-performing channels.
+
+* Re-evaluate YouTube and Website strategies to improve their ROI:
+
+* Shorter, more actionable video content.
+
+* Optimize landing pages for conversions.
+
+✅ Engagement-Based Personalization: 
+
+* Use engagement scores to personalize messaging and offers.
+
+* Higher engagement = higher ROI → use this to prioritize lead nurturing.
   
 
 **Budget Allocation:**
@@ -164,6 +293,9 @@ Simulated streaming by chunked incremental data loading*
 * Average of profit vs location.
 
 **Strategic Planning**
-![Strategic Planning]()
+![Strategic Planning](/Screenshot%202025-07-31%20084741.png)
 
+* Metric table consist of Campaign type, Average of Acquisition Cost, Average of profit, Average of Conversion rate, ROI Rank, Top Campaign Flag, Average of CPC.
+* Line chart for Sum of ROI by Campaign type and year
+* Average of CPC by Target Audience.
 
