@@ -52,7 +52,7 @@ The marketing analytics team wanted to know:
 
 * Should we continue investing evenly across channels, or refocus?
 
-# 3. Strategic planning- Situation-Based Question:
+**3. Strategic planning- Situation-Based Question:**
 
 **Situation**
 
