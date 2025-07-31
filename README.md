@@ -147,3 +147,11 @@ Simulated streaming by chunked incremental data loading*
 **ROI Tracking:**
 ![ROI Tracking](./Screenshot%202025-07-31%20083709.png)
 
+* KPI: Sum of Acquisition Cost, Sum of Profit and Sum of Total revenue gained.
+* Pie Chart for calculating the average of ROI vs Channel used
+* Line Chart for Average of ROI by campaign type
+* Metric table for Customer Segment, Sum of ROI and Average of engagement score.
+
+**Budget Allocation:**
+![Budget Allocation](
+
