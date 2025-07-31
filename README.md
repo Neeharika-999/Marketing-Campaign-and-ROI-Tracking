@@ -96,3 +96,50 @@ In Simple Terms, if you run an ad on Google, Facebook, Instagram, etc., and some
 
 **Formula:** Engagement Score = (Total Engagements/Total Impressions or Reach) × 100
 
+# TASK:
+
+1. Create the metrics
+2. Create an end to end dashboard that helps the stakeholders to understand easily.
+3. Create relevant insights that helpss in making data-informed decisions.
+
+# BI Workflow: From Data Collection to Dashboard
+
+# 1. Data Source:
+
+--> Get Data  -->  Marketing platform APIs (Google Ads, Facebook Ads, Mailchimp) with OAuth tokens 
+
+*Alternative:
+Historic marketing campaign exports from internal teams
+Public datasets or Google Analytics sample data
+Simulated streaming by chunked incremental data loading*
+
+
+# Data Transformation in Python:
+
+-->Transform the data --> Select the csv file and expand it --> Check the data types -->  Check the null and missing values --> Check the duplicate values --> replace it --> cleaned data
+
+**Apache Airflow**: Since the csv file consist of one dataset only, hence the required of apache airflow is not required.
+
+# Build Metrics using DAX:
+
+-> CALCULATED COLUMNS:
+
+* profit = marketing_campaign_dataset[total_revenue_gained]-marketing_campaign_dataset[Acquisition_Cost]
+
+* total_revenue_gained = marketing_campaign_dataset[ROI]*marketing_campaign_dataset[Acquisition_Cost]+marketing_campaign_dataset[Acquisition_Cost
+
+* CPC = DIVIDE(marketing_campaign_dataset[Acquisition_Cost], marketing_campaign_dataset[Clicks])
+
+* Estimated_Revenue = marketing_campaign_dataset[Conversion_Rate] * marketing_campaign_dataset[Acquisition_Cost]
+
+--> CALCULATED MEASURES:
+
+* Top_Campaign_Flag =  IF([ROI_Rank] = 1, "Top Performer", "Others")
+
+* ROI_Rank = RANKX (ALL(marketing_campaign_dataset[Campaign_Type]),
+    CALCULATE(AVERAGE(marketing_campaign_dataset[ROI])),,
+    DESC,
+    DENSE
+)
+
+
